@@ -18,9 +18,6 @@ Pull requests are the best way to propose changes to the codebase. We actively w
 - Issue that pull request.
 - Try to attach screenshots of new update or changes when opening a PR.
 
-# Screenshot
-<img alt='screenshot' src='https://mir-s3-cdn-cf.behance.net/project_modules/1400/4186cb121098563.60bf274acd7eb.png' />
-
 Live: https://devforum.netlify.app
 
 Show some ❤️ by ⭐ the project.
